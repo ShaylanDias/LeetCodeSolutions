@@ -1,1 +1,1 @@
-# A repository for LeetCode problem type solutions
+# A repository for my LeetCode problem type solutions
